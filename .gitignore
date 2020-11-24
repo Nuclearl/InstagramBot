@@ -1,0 +1,7 @@
+/db
+/src
+/.idea
+/__pycache__
+chromedriver.exe
+config.py
+geckodriver.log
